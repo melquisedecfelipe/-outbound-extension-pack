@@ -3,7 +3,7 @@
   "displayName": "Outbound Extension Pack",
   "description": "Extensions used on @mercadolibre Outbound team",
   "version": "1.0.0",
-  "publisher": "outbound",
+  "publisher": "Outbound",
   "engines": {
     "vscode": "^1.61.0"
   },
