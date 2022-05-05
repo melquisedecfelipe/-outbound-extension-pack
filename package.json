@@ -1,0 +1,53 @@
+{
+  "name": "extension-pack",
+  "displayName": "Outbound Extension Pack",
+  "description": "Extensions used on @mercadolibre Outbound team",
+  "version": "1.0.0",
+  "publisher": "outbound",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "eslint",
+    "git",
+    "prettier",
+    "react",
+    "snippets",
+    "styled-components",
+    "theme",
+    "typescript"
+  ],
+  "repository": {
+    "url": "https://github.com/melquisedecfelipe/outbound-extension-pack"
+  },
+  "homepage": "https://github.com/melquisedecfelipe/outbound-extension-pack",
+  "bugs": {
+    "url": "https://github.com/melquisedecfelipe/outbound-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "mrmlnc.vscode-duplicate",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "xabikos.JavaScriptSnippets",
+    "ms-vscode.vscode-typescript-next",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "styled-components.vscode-styled-components",
+    "waderyan.gitblame"
+  ]
+}
