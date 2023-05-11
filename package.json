@@ -40,12 +40,12 @@
     "dbaeumer.vscode-eslint",
     "VisualStudioExptTeam.vscodeintellicode",
     "xabikos.JavaScriptSnippets",
-    "ms-vscode.vscode-typescript-next",
     "andys8.jest-snippets",
     "skyran.js-jsx-snippets",
     "PKief.material-icon-theme",
     "esbenp.prettier-vscode",
     "streetsidesoftware.code-spell-checker-spanish",
-    "waderyan.gitblame"
+    "waderyan.gitblame",
+    "GitHub.copilot"
   ]
 }
