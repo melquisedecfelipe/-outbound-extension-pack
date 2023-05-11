@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.0]
 
 - Release initial
+
+## [1.0.1]
+
+- Publish version
+
+## [1.0.2]
+
+- Add copilot
