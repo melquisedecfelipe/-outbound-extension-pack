@@ -2,7 +2,7 @@
   "name": "extension-packages",
   "displayName": "Outbound Extension Pack",
   "description": "Extensions used on @mercadolibre Outbound team",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "Outbound",
   "engines": {
     "vscode": "^1.61.0"
@@ -16,11 +16,8 @@
     "copilot",
     "eslint",
     "git",
-    "jest",
     "prettier",
-    "react",
-    "snippets",
-    "theme"
+    "tailwind"
   ],
   "repository": {
     "url": "https://github.com/melquisedecfelipe/outbound-extension-pack"
@@ -39,15 +36,12 @@
     "mrmlnc.vscode-duplicate",
     "EditorConfig.EditorConfig",
     "dbaeumer.vscode-eslint",
-    "xabikos.JavaScriptSnippets",
-    "andys8.jest-snippets",
-    "burkeholland.simple-react-snippets",
-    "PKief.material-icon-theme",
-    "esbenp.prettier-vscode",
-    "streetsidesoftware.code-spell-checker-spanish",
     "waderyan.gitblame",
     "GitHub.copilot",
-    "christian-kohler.npm-intellisense",
-    "Orta.vscode-jest"
+    "PKief.material-icon-theme",
+    "unifiedjs.vscode-mdx",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "bradlc.vscode-tailwindcss"
   ]
 }
